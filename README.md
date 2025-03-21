@@ -90,7 +90,7 @@ In case you have issues with versions, check out depth-refinement.yml for my (un
 
 ### 1. Prepare data
 
-Download and unzip the provided [example data](https://drive.google.com/file/d/1k0kBvJYUr70XFJIB54mZn88BW80ykxJu/view?usp=drive_link)
+Download and unzip the provided [example data](https://drive.google.com/file/d/1k0kBvJYUr70XFJIB54mZn88BW80ykxJu/view?usp=drive_link). Place it into this repos root dir.
 
 
 ### 2. Run script

@@ -1,0 +1,17 @@
+numpy
+argparse
+matplotlib
+torch
+torchvision
+tensorboard
+slangtorch
+imageio
+imageio-ffmpeg
+trimesh
+ninja
+gdown
+xatlas
+opencv-python
+tqdm
+open3d
+./nvdiffrast

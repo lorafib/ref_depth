@@ -1,0 +1,10 @@
+**/__pycache__
+**/*.pyc
+**/.slangpy_cache
+**/.slangtorch_cache
+**/*.lock
+
+# output
+experiments/*
+
+

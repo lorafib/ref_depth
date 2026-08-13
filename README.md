@@ -20,11 +20,15 @@ Our evaluation shows that our method is able to generate detailed, high-quality,
 ## Citation
 
 ```
-@article{fink2024refdepth,
-    title={Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering},
-    author={Laura Fink and Linus Franke and Bernhard Egger and Joachim Keinert and Marc Stamminger},
-    journal={arXiv preprint arXiv:2410.03861},
-    year = {2024}
+@inproceedings{10.2312:vmv.20251232,
+    booktitle = {Vision, Modeling, and Visualization},
+    editor = {Egger, Bernhard and Günther, Tobias},
+    title = {{Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering}},
+    author = {Fink, Laura and Franke, Linus and Egger, Bernhard and Keinert, Joachim and Stamminger, Marc},
+    year = {2025},
+    publisher = {The Eurographics Association},
+    ISBN = {978-3-03868-294-3},
+    DOI = {10.2312/vmv.20251232}
 }
 ```
 
